@@ -1,1 +1,1 @@
-Alteração no Git para testar se está funcionando tudo certo a conexão Git <-> Github
+Este projeto foi realizado com o propósito de configurar e explorar o funcionamento do Git e do GitHub, focando no aprendizado de comandos e fluxos essenciais como commit, pull, push e outros. A atividade incluiu a prática de versionamento de código, gerenciamento de repositórios e interação com plataformas de controle de versão, proporcionando uma base sólida para colaboração em projetos e desenvolvimento de software.
